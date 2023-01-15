@@ -192,3 +192,36 @@
 .fact-description{
     color: #727272;
 }
+/* Sponsor styles */
+.sponsor-container{
+
+}
+.sponsors{
+ gap: -50px;
+}
+.sponsor-title{
+    color: #131313;
+    font-weight: 700;
+    font-size: 45px;
+    text-align: center;
+}
+.sponsor-description{
+    color: #727272;
+    text-align: center;
+}
+.sponsor{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    
+}
+.footer-container{
+    border: 1px solid #FFF4E7;;
+    background: #FFF4E7;
+    border-radius: 8px;
+    font-size: 20px;
+    text-align: center;
+    margin: 20px 240px;
+    color: #424242;
+
+}
